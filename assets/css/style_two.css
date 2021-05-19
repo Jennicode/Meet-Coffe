@@ -1,0 +1,83 @@
+body {
+    background: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+}
+
+section {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 75px;
+}
+
+header {
+    text-align: left;
+    padding-left: 400px;
+}
+
+h2 {
+    text-align: left;
+}
+
+footer {
+    margin-top: 75px;
+}
+
+nav {
+    text-align: left;
+    padding: 1.25rem 4rem;
+    position: fixed;
+    width: 100vw;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 1em;
+    vertical-align: middle;
+}
+
+#simposiove {
+    padding-top: 150px;
+    text-align: left;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+
+#subtitulo {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#imagen {
+    margin: 0;
+    padding: 0%;
+    width: 100%;
+}
+
+#boton_volver {
+    padding: 20px;
+    background-color: rgb(42, 41, 41);
+    display: inline-block;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+#color-link {
+    color: white;
+    text-decoration: none;
+}
+
+.contenido {
+    color: #000000;
+    text-align: justify;
+    padding: 30px;
+    padding-left: 400px;
+    padding-right: 480px;
+    display: inline-block;
+}
+
+.oscuro {
+    padding: 20px;
+    font-size: 18px;
+}
